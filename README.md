@@ -9,7 +9,7 @@
 
 ## Books I'm Reading 
 
-1. [Designing Data Intensive Applications](https://amzn.to/3aXXnqV) by Martin Kleppmann. [Notes](https://github.com/anshulkhare7/BookShelf/blob/master/DDIA/README.md)
+1. [Designing Data Intensive Applications](https://amzn.to/3aXXnqV) by Martin Kleppmann. [Notes](https://github.com/anshulkhare7/notes/blob/main/books/designing-data-intensive-applications.md)
 
 ## Books I Plan to read next
 
