@@ -31,3 +31,4 @@
 16. [Smart and Gets Things Done](https://amzn.to/3shfQbK) by Joel Spolsky
 17. [Joel on Software](https://amzn.to/3brGs3Q) by Joel Spolsky
 18. [More Joel on Software](https://amzn.to/3brGmJw) by Joel Spolsky
+19. [The Psychology of Computer Programming](https://amzn.to/3jiKWxR) by  Gerald M. Weinberg
