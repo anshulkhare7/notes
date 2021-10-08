@@ -4,7 +4,8 @@
 
 * [Password Security: How not to Store Passwords](https://github.com/anshulkhare7/notes/blob/main/courses/password-security.md)
 * [Practical Security: Simple Practices for Defending Your Systems](https://github.com/anshulkhare7/notes/blob/main/courses/practical-security.md)
-
+* [Web Application Security: Understanding HTTP Security Headers](https://github.com/anshulkhare7/notes/blob/main/courses/http-security.md)
+ 
 # Book notes
 
 ## Books I'm Reading 
